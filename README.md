@@ -1,2 +1,2 @@
-# docker-wallet
-Build any wallet with docker.
+# Docker Wallet
+Dockerfile definition for various wallets.
