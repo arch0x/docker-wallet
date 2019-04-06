@@ -1,2 +1,2 @@
 # Docker Wallet
-Dockerfile definition for various wallets.
+Base Dockerfile for wallet.
